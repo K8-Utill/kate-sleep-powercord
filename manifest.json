@@ -1,0 +1,8 @@
+{
+	"name": "Kate Sleep",
+	"version": "1.0.0",
+	"description": "Uses the kate api to do stuff!",
+	"author": "ugly-patootie#0611, • Hawks • 🌈#1337",
+	"license": "MIT",
+	"permissions": ["ext_api"]
+}

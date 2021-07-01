@@ -1,0 +1,19 @@
+{
+	"name": "kate-sleep-powercord",
+	"version": "1.0.0",
+	"description": "using kate-sleep npm package",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/K8-Utill/kate-sleep-powercord.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/K8-Utill/kate-sleep-powercord/issues"
+	},
+	"homepage": "https://github.com/K8-Utill/kate-sleep-powercord#readme",
+	"dependencies": {
+		"kate-sleep": "^0.0.11"
+	}
+}
