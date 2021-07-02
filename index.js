@@ -92,7 +92,6 @@ module.exports = class KateSleepPC extends Plugin {
 				} else if (args[0] === 'setColor') {
 					if (!args[1]) return { send: false, result: 'You need to pass a panel id' };
 					else if (!args[2]) return { send: false, result: 'You need to a hex value' };
-					console.log(args[2]);
 					const res = await kate.color(hexToRgb(args[2]), args[1]);
 					return {
 						send: false,
